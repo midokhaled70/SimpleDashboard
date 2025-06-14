@@ -67,7 +67,7 @@ midoDashBoard/
 * This is a **static dashboard** — data like revenue and products are **hardcoded**.
 * You can link the layout with backend APIs for real data display.
 * Hover over rows or boxes to see interactive styles.
-
+##Autor
 ---
 
 ## 📃 License

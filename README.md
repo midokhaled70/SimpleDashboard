@@ -71,7 +71,7 @@ midoDashBoard/
 ---
 
 ## 📃 License
-mido KHALED
+MIDO KHALED
 
 ---
 

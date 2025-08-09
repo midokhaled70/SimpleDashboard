@@ -71,7 +71,7 @@ midoDashBoard/
 ---Ahmed Khaled
 
 ## 📃 License
-Mido k
+Mido kh
 
 ---
 
